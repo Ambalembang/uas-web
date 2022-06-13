@@ -27,7 +27,7 @@ if (isset($_POST['btnlogin'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login Form</title>
 
 	<link href="css/style2.css" rel="stylesheet" type="text/css" />
     
