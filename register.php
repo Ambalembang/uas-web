@@ -70,7 +70,7 @@ if (isset($_POST['btnregister'])) {
 			<div class="input-group">
 				<button name="btnregister" class="btn">Register</button>
 			</div>
-			<p class="login-register-text">Have an account? <a href="login.php">Login Here</a>.</p>
+			<p class="login-register-text">Have an account? <a href="index.php">Login Here</a>.</p>
 		</form>
 
 
