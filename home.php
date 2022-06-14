@@ -32,7 +32,7 @@ include "koneksi.php";
                 <div class="about_data">
                     <h2 class="section-header about_initial">Rumahnya Laptop</h2>
                     <p class="about_description">Website tempatya laptop-laptop berkuliatas, harga terjangkau dan dapat dipercaya</p><br>
-                    <a href="store.html" class="btn btn-primary">Belanja Sekarang <i style="color: white;" class='bx bx-right-arrow-circle'></i></a>
+                    <a href="store.php" class="btn btn-primary">Belanja Sekarang <i style="color: white;" class='bx bx-right-arrow-circle'></i></a>
                 </div>
 
                 <img src="assets/img/GIF PEMRO.WEB (Presentation (169)).gif" alt="" class="about_img">
