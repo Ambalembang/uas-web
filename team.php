@@ -27,7 +27,7 @@ include "koneksi.php";
         </nav>
         <h1 class="band-name band-name-large">TOKOKU</h1>
         <br><br><br><br><br><br><br>
-        <button style="color: white;" type="button" class="btn btn-header btn-play"><a href="https://drive.google.com/file/d/1vUvwT2Zbw6GQxnqJXfQr8ryNfbsnSWmV/view?usp=sharing">&#9658;</a></button>
+        <button style="color: white;" type="button" class="btn btn-header btn-play"><a href="https://drive.google.com/drive/folders/1RQ5eED8dhKM5CkhIes7NJ31pdPm_YLdZ?usp=sharing">&#9658;</a></button>
     </header>
     <section class="contact section bd-container">
         <h2 class="section-header">Anggota Kelompok</h2>
